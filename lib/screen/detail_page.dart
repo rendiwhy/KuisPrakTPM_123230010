@@ -167,7 +167,7 @@ class PostDetailPage extends StatelessWidget {
                                     style: const TextStyle(
                                       fontWeight: FontWeight.bold,
                                       fontSize: 13,
-                                    ),git
+                                    ),
                                   ),
                                   const SizedBox(height: 4),
                                   Text(
